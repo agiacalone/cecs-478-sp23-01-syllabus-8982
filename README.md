@@ -42,6 +42,25 @@ By the conclusion of this course, students will be able to:
 |                   |      | | 60% - 69%   | D  |
 | **Total**         | 100% | | < 60%       | F  |
 
+### Tentative Class Schedule
+|  Week      | Subject                                             |
+|------------|-----------------------------------------------------|
+| Jan 19, 23 | Intro to Computer Security (Ch 1)                   |
+| Feb  1     | Symmetric and Assymmetric Encryption (Ch 2, 20, 21) |
+| Feb  6     | Encryption, ctd                                     |
+| Feb 13     | First exam, Malicious Software (Ch 6)               |
+| Feb 20     | Malicious Software, ctd                             |
+| Feb 27     | Denial of Service Attacks (Ch 7)                    |
+| Mar  6     | DoS ctd, Database and Cloud Security (Ch 5)         |
+| Mar 13     | Database, ctd                                       |
+| Mar 20     | Second Exam, Buffer Overflow Attacks (Ch 10)        |
+| Mar 27     | **Spring Break**                                    |
+| Apr  3     | Buffer Overflow, ctd.                               |
+| Apr 10     | User Authentication and Access Control (Ch 3, 4)    |
+| Apr 17     | UAAC ctd, Intrusion Detection (Ch 8)                |
+| Apr 24     | OS Security (Ch 12)                                 |
+| May  1, 8  | Case Study, Final Exam                              |
+
 ### Exams
 
 Students will take two midterm exams throughout the semester. There will be no makeups allowed for any quiz or exam. A final exam is administered at the conclusion of the semester. There may be some writing on the quizzes and exams.
@@ -64,27 +83,6 @@ Homework and lab assignments will be assigned approximately every other week, an
 * All source code submitted must be adequately commented in order to receive credit. Source code which is not commented with the student's own comments *will not receive any credit*.
 
 **Late assignments** will, at a minimum, be subject to a 10% reduction in grade *per day* that the assignment is late. I do not accept homework submissions via email, fax, or any other means than the deliverable requirements listed on the assignment specification.
-
-### Tentative Class Schedule
-
-|  Week      | Subject                                             |
-|------------|-----------------------------------------------------|
-| Jan 19, 23 | Introduction to Computer Security and Hacking (Ch 1)|
-| Feb  1     | Programming for Hackers (Ch 2)                      |
-| Feb  6     | Exploitation (Ch 3)                                 |
-| Feb 13     | Exploitation, ctd.                                  |
-| Feb 20     | First exam, Networking (Ch 4)                       |
-| Feb 27     | Networking, ctd.                                    |
-| Mar  6     | Shellcode (Ch 5)                                    |
-| Mar 13     | Shellcode, ctd.                                     |
-| Mar 20     | Second Exam, Countermeasures (Ch 6)                 |
-| Mar 24     | Countermeasures, ctd.                               |
-| Mar 27     | **Spring Break**                                    |
-| Apr  3     | Cryptography/Cryptology (Ch 7)                      |
-| Apr 10     | Crypto, ctd.                                        |
-| Apr 17     | Crypto, ctd.                                        |
-| Apr 24     | Case Studies in Hacking                             |
-| May 1, 8   | Case Study, Final Exam                              |
 
 ### Computer Software
 
